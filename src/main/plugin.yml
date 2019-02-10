@@ -1,0 +1,8 @@
+#GulesBerry Technology Co. Ltd. (c) 2018-2019 Java Lib.
+#Noyark Minecraft Blog of MagicLu
+name: RPGMain
+main: net.noyark.www.minecraft.nukkit.API.RPGMain
+version: "0.0.1"
+author: Noyark-System
+api: ["1.0.7"]
+description: RPGAPI0.0.1
